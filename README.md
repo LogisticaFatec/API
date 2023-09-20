@@ -74,15 +74,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Backlog do produto
 
 ## Sprint 1. 
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
+- [x] Defina Scrum Master da Equipe;
+- [x] Defina o PO da Equipe;
+- [x] Criação e Estruturação do Jira;
+- [x] Criação e Estruturação do GitHub;
+- [x] Distribuição de Atividades e Definição de Responsabilidades;
 - [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+
 
 ## Sprint 2. 
 - [ ] Documento passo a passo;
