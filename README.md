@@ -37,7 +37,9 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 
- <img src="/sprint1/img/time.PNG">
+< p  alinhar = " centro " >
+< img  src = " https://github.com/LogisticaFatec/API/blob/main/Sprint%201/Imagens/Time.PNG "  largura = " 100% " />
+</ p >
 
 # Objetivo do Projeto
 Este projeto tem como objetivo análise de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga, visando:
