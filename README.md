@@ -38,7 +38,7 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 
 
-<img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU">
+<img src="Sprint 1/Imagens/Time.PNG">
 
 
 # Objetivo do Projeto
