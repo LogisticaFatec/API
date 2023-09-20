@@ -59,8 +59,7 @@ Adicionar video e documentos nessa seção
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
-
-![jira](https://github.com/jeancosta4/githubapi/assets/89345200/8e492185-a267-49a3-b60e-dac9dec0add6)
+<img src="Sprint 1/Imagens/WhatsApp Image 2023-09-20 at 20.55.36.jpeg"/>
 
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
