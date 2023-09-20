@@ -35,6 +35,8 @@ Sprint | Previsão | Status| Histórico|
  <img src="https://img.shields.io/badge/STATUS-EM PROCESSO-red"/>
 </p>
 
+# Equipe
+
 
 
 # Objetivo do Projeto
