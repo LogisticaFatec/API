@@ -5,6 +5,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Índice
 
 * [Projetos](#projetos)
+* [Micro Certificações](#micro-certificações)
 * [Tecnologias](#tecnologias)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -28,7 +29,11 @@ Sprint | Previsão | Status| Histórico|
 |04| 29/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
+# Micro Certificações
+<p align="center">
 
+ <img src="https://img.shields.io/badge/STATUS-EM PROCESSO-red"/>
+</p>
 
 
 
