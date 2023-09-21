@@ -59,7 +59,7 @@ Adicionar video e documentos nessa seção
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
-<img src="Sprint 1/Imagens/WhatsApp Image 2023-09-20 at 20.55.36.jpeg"/>
+<img src="Sprint 1/Imagens/Ferramenta.jpeg"/>
 
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
