@@ -83,24 +83,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Cálculo da produtividade mensal (input e output).
       
 ## Sprint 3. 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Integração MySQL e Access;
+- [ ] Criação e modelagem no SQL - Prototipagem;
+- [ ] Automatização da análise da base de dados via Access;
       
 ## Sprint 4. 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
+- [ ] Criação e edição do vídeo para Feira de Soluções.
 
   
-
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
