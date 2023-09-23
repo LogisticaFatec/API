@@ -45,7 +45,7 @@ Este projeto tem como objetivo análise de veículos, de otimização de distrib
 
 ## Apresentação da estrutura do Jira Software da equipe
 
-![ezgif com-gif-to-mp4](https://github.com/LogisticaFatec/API/assets/142456968/348a7450-30a5-4813-a307-5875b1d0c043)
+![ezgif com-video-to-gif](https://github.com/LogisticaFatec/API/assets/142456968/9c125f00-93da-47ad-9def-50b83e886436)
 
 
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
