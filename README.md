@@ -66,12 +66,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Backlog do produto
 
 ## Sprint 1. 
-- [x] Defina Scrum Master da Equipe;
-- [x] Defina o PO da Equipe;
-- [x] Criação e Estruturação do Jira;
+- [x] Kick-off apresentado pelo cliente;
 - [x] Criação e Estruturação do GitHub;
-- [x] Distribuição de Atividades e Definição de Responsabilidades;
-- [ ] Teste e revise;
+- [x] Criação e Estruturação do Jira;
+- [x] Desenvolvimento e alimentação Backlog;
+- [x] Escolha da metodologia.
 
 
 ## Sprint 2. 
