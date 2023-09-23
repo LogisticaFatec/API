@@ -48,8 +48,6 @@ Este projeto tem como objetivo análise de veículos, de otimização de distrib
 ![ezgif com-video-to-gif (1)](https://github.com/LogisticaFatec/API/assets/142456968/06faef21-238e-44d0-abbc-f7844cc476f5)
 
 
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
-
 ## Tecnologias Utilizadas
 <img src="Tecnologias.jpeg"/>
 
