@@ -93,9 +93,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 # Competências desenvolvidas
 
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
+## Hard Skill 
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
@@ -108,9 +106,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  
 </details>
 
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
+## Soft Skill 
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
