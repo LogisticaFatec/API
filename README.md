@@ -32,7 +32,7 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 
 
-<img src="Time.PNG">
+<img src="timeAPI.jpg">
 
 
 # Objetivo do Projeto
