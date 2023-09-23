@@ -52,7 +52,7 @@ Adicionar video e documentos nessa seção
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
-<img src="Sprint 1/Imagens/Ferramenta.jpeg"/>
+<img src="Tecnologias.jpeg"/>
 
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
