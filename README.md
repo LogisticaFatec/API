@@ -41,8 +41,6 @@ Este projeto tem como objetivo análise de veículos, de otimização de distrib
 * Criação e modelagem de um banco de dados em SQL;
 * Criação de um visualizador de indicadores em BI;
 * Aplicação do método de transportes para otimização da distribuição;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
@@ -63,7 +61,7 @@ Adicionar video e documentos nessa seção
 
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints[(clique aqui)](https://thainap.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)
 
 # Backlog do produto
 
