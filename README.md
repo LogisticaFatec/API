@@ -33,7 +33,7 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 
 
-<img src="Sprint 1/Imagens/Time.PNG">
+<img src="Time.PNG">
 
 
 # Objetivo do Projeto
