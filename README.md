@@ -43,10 +43,10 @@ Este projeto tem como objetivo análise de veículos, de otimização de distrib
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+## Apresentação da estrutura do Jira Software da equipe
 
-Adicionar video e documentos nessa seção
+![ezgif com-gif-to-mp4](https://github.com/LogisticaFatec/API/assets/142456968/348a7450-30a5-4813-a307-5875b1d0c043)
+
 
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
