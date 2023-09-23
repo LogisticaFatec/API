@@ -5,7 +5,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Índice
 
 * [Projeto (API)](#projeto-api)
-* [Micro Certificações](#micro-certificações)
 * [Tecnologias](#tecnologias)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -74,11 +73,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Sprint 2. 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Análise de dados via Excel;
+- [ ] Criação de tabelas, via Power BI;
+- [ ] Desenvolver relatórios e dashboard no Power BI;
+- [ ] Criação de chaves no Bing Maps;
+- [ ] Análise via Bing Maps;
+- [ ] Cáculo da produtividade por veículo via Excel;
+- [ ] Cálculo da distância entre fábrica e clientes, via rotas;
+- [ ] Cálculo da produtividade mensal (input e output).
       
 ## Sprint 3. 
 - [ ] 
