@@ -43,24 +43,30 @@ Este projeto tem como objetivo análise de veículos, de otimização de distrib
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
-## Apresentação da estrutura do Jira Software da equipe
+Colocar video de apresentação
 
-![ezgif com-video-to-gif (1)](https://github.com/LogisticaFatec/API/assets/142456968/06faef21-238e-44d0-abbc-f7844cc476f5)
-
-
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
 <img src="Tecnologias.jpeg"/>
+
+
 
 # Produto
  * Sprint 1
    
 Com o GitHub, temos os principais dados organizados, conseguindo assim, elencar prioridades e solucionar os problemas que surgirem com o decorrer do projeto, além de conseguir exibir os avanços e resultados gerados pela equipe de forma clara e explicativa.  Bem como o Jira Software, torna-se possivel organizar, atribuir e acompanhar as atividades necessárias para o alcance do produto final. De maneira que a comunicação seja direta ao responsável e de forma sistemática, analisar o desempenho e gargalos na equipe e nas atividades.
+## Apresentação da estrutura do Jira Software da equipe
+![ezgif com-video-to-gif (1)](https://github.com/LogisticaFatec/API/assets/142456968/06faef21-238e-44d0-abbc-f7844cc476f5)
+
+
+
 
 # Cronograma das Sprints
 
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints[(clique aqui)](https://thainap.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)
+
+
 
 # Backlog do produto
 
