@@ -51,8 +51,10 @@ Este projeto tem como objetivo análise de veículos, de otimização de distrib
 ## Tecnologias Utilizadas
 <img src="Tecnologias.jpeg"/>
 
-  ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+# Produto
+ * Sprint 1
+   
+Com o GitHub, temos os principais dados organizados, conseguindo assim, elencar prioridades e solucionar os problemas que surgirem com o decorrer do projeto, além de conseguir exibir os avanços e resultados gerados pela equipe de forma clara e explicativa.  Bem como o Jira Software, torna-se possivel organizar, atribuir e acompanhar as atividades necessárias para o alcance do produto final. De maneira que a comunicação seja direta ao responsável e de forma sistemática, analisar o desempenho e gargalos na equipe e nas atividades.
 
 # Cronograma das Sprints
 
