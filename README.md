@@ -86,7 +86,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Automatização da análise da base de dados via Access;
       
 ## Sprint 4. 
-- [ ] Criação e edição do vídeo para Feira de Soluções.
+- [ ] Entrega de resultados para cliente;
+- [ ]  Criação e edição do vídeo para Feira de Soluções.
 
   
 # Competências desenvolvidas
