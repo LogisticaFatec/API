@@ -43,9 +43,12 @@ Este projeto tem como objetivo análise de veículos, de otimização de distrib
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
-#### No vídeo abaixo, estaremos apresentando toda a estrutura do Github, JIRA Software e o Backlog de todas tarefas que serão desenvolvidas para a entrega do produto final ao nosso cliente.
+### Sprint 1
+  No vídeo abaixo, estaremos apresentando toda a estrutura do Github, JIRA Software e o Backlog de todas tarefas que serão desenvolvidas para a entrega do produto final ao nosso cliente.
 
 https://github.com/LogisticaFatec/API/assets/142456968/7daf45b0-efad-4dee-a202-8d66414eac79
+
+
 
 
 
