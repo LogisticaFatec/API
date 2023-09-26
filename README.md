@@ -101,7 +101,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Automatização da análise da base de dados via Access;
       
 ## Sprint 4. 
-- [ ] Entrega de resultados para cliente;
+- [ ] Entrega de resultados para o cliente;
 - [ ]  Criação e edição do vídeo para Feira de Soluções.
 
   
