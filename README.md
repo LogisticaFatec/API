@@ -49,14 +49,10 @@ Este projeto tem como objetivo análise de veículos, de otimização de distrib
 https://github.com/LogisticaFatec/API/assets/142456968/7daf45b0-efad-4dee-a202-8d66414eac79
 
 ### Sprint 2
- Nos vídeos abaixo, estaremos apresentando toda a estrutura desenvolvida no Power Bi, tecnologia utilizada para auxiliar o cliente a visualizar e comprender os dados que antes eram armazenados no excel.
+ No vídeo abaixo, estaremos apresentando toda a estrutura desenvolvida no Power Bi, tecnologia utilizada para auxiliar o cliente a visualizar e comprender os dados que antes eram armazenados no excel.
 
 
-[https://github.com/LogisticaFatec/API/assets/144967989/f5c813dc-660f-46f5-a68e-1dc72fd9fb81](https://github.com/LogisticaFatec/API/assets/142456968/94622376-9f7a-4b81-b404-50013e038dbf)
-
-[https://github.com/LogisticaFatec/API/assets/144967989/45edc570-86f9-4b46-9312-9fd8753b4e5b](https://github.com/LogisticaFatec/API/assets/142456968/06eb5f6a-7f1a-4b5b-bbcd-a81a44f4f9d9)
-
-https://github.com/LogisticaFatec/API/assets/142456968/ea05632f-b94a-49df-8bbd-96770557fdeb
+[![Nome do Vídeo](https://img.youtube.com/vi/xX9fj6OkDOI/maxresdefault.jpg)](https://www.youtube.com/watch?v=xX9fj6OkDOI)
 
 
 
