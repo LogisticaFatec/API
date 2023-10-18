@@ -141,7 +141,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Product Owner | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
