@@ -56,7 +56,7 @@ https://github.com/LogisticaFatec/API/assets/142456968/7daf45b0-efad-4dee-a202-8
 
 [https://github.com/LogisticaFatec/API/assets/144967989/45edc570-86f9-4b46-9312-9fd8753b4e5b](https://github.com/LogisticaFatec/API/assets/142456968/06eb5f6a-7f1a-4b5b-bbcd-a81a44f4f9d9)
 
-https://github.com/LogisticaFatec/API/assets/144967989/b8ea7cd4-b41c-4005-bd92-3b4bad4dd570
+https://github.com/LogisticaFatec/API/assets/142456968/ea05632f-b94a-49df-8bbd-96770557fdeb
 
 
 
@@ -84,13 +84,15 @@ Com o GitHub, temos os principais dados organizados, conseguindo assim, elencar 
 Com  os Dashboards utilizando a ferramenta PowerBI para auxiliar o cliente a visualizar todos os seus dados armazenados no Excel. Contribuindo para futuras entregas, sendo elas:
  
 ## Uma tela que mostre a produtividade mensal dos veículos:
-![WhatsApp Image 2023-10-17 at 21 13 16](https://github.com/LogisticaFatec/API/assets/144967989/e48b5971-3680-4485-a478-b84da263f9ed)
+![image](https://github.com/LogisticaFatec/API/assets/142456968/c5878b76-401a-4fbd-a46c-69e6e8266d97)
 
 ## Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas:
-![WhatsApp Image 2023-10-17 at 21 13 17](https://github.com/LogisticaFatec/API/assets/144967989/8f928f7d-83aa-4d4e-90c4-89e54b4deab2)
+![image](https://github.com/LogisticaFatec/API/assets/142456968/c478d358-da7e-4a09-a90c-d365f0a0ba1a)
 
-## Uma tela de BI mostre a produtividade mensal dos veículos:
-![WhatsApp Image 2023-10-17 at 21 13 17](https://github.com/LogisticaFatec/API/assets/144967989/f19203ce-41fb-41b0-92b8-7f8f2733926e)
+
+## Uma tela de BI mostre o relatório de fretes das fábricas:
+![image](https://github.com/LogisticaFatec/API/assets/142456968/52765e1c-e5e5-4098-9bd2-151da1b6186f)
+
 
   
 
