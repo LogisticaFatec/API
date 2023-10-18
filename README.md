@@ -22,8 +22,8 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 Sprint | Previsão | Status| 
 |------|--------|------|
 |Kick Off | 06/09/2023 | concluido|
-|01 |27/09/2023 | concluido| 
-|02| 18/10/2023 | a fazer |
+|01 |27/09/2023 | concluido | 
+|02| 18/10/2023 | concluido |
 |03| 08/11/2023 | a fazer|
 |04| 29/11/2023 |a fazer |
 |Feira de Soluções|12/12/2023 |a fazer |
@@ -44,9 +44,23 @@ Este projeto tem como objetivo análise de veículos, de otimização de distrib
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
 ### Sprint 1
-  No vídeo abaixo, estaremos apresentando toda a estrutura do Github, JIRA Software e o Backlog de todas tarefas que serão desenvolvidas para a entrega do produto final ao nosso cliente.
+  No vídeo abaixo, estaremos apresentando toda a estrutura do Github, JIRA Software e o Backlog de todas tarefas que serão desenvolvidas para a entrega do produto final ao nosso cliente. 
 
 https://github.com/LogisticaFatec/API/assets/142456968/7daf45b0-efad-4dee-a202-8d66414eac79
+
+### Sprint 2
+ Nos vídeos abaixo, estaremos apresentando toda a estrutura desenvolvida no Power Bi, tecnologia utilizada para auxiliar o cliente a visualizar e comprender os dados que antes eram armazenados no excel.
+
+
+https://github.com/LogisticaFatec/API/assets/144967989/f5c813dc-660f-46f5-a68e-1dc72fd9fb81
+
+https://github.com/LogisticaFatec/API/assets/144967989/45edc570-86f9-4b46-9312-9fd8753b4e5b
+
+https://github.com/LogisticaFatec/API/assets/144967989/b8ea7cd4-b41c-4005-bd92-3b4bad4dd570
+
+
+
+
 
 
 
@@ -58,11 +72,27 @@ https://github.com/LogisticaFatec/API/assets/142456968/7daf45b0-efad-4dee-a202-8
 
 
 # Produto
- * Sprint 1
+
+* Sprint 1
    
 Com o GitHub, temos os principais dados organizados, conseguindo assim, elencar prioridades e solucionar os problemas que surgirem com o decorrer do projeto, além de conseguir exibir os avanços e resultados gerados pela equipe de forma clara e explicativa.  Bem como o Jira Software, torna-se possivel organizar, atribuir e acompanhar as atividades necessárias para o alcance do produto final. De maneira que a comunicação seja direta ao responsável e de forma sistemática, analisar o desempenho e gargalos na equipe e nas atividades.
 ## Apresentação da estrutura do Jira Software da equipe
 ![ezgif com-video-to-gif (1)](https://github.com/LogisticaFatec/API/assets/142456968/06faef21-238e-44d0-abbc-f7844cc476f5)
+
+* Sprint 2
+
+Com  os Dashboards utilizando a ferramenta PowerBI para auxiliar o cliente a visualizar todos os seus dados armazenados no Excel. Contribuindo para futuras entregas, sendo elas:
+ 
+## Uma tela que mostre a produtividade mensal dos veículos:
+![WhatsApp Image 2023-10-17 at 21 13 16](https://github.com/LogisticaFatec/API/assets/144967989/e48b5971-3680-4485-a478-b84da263f9ed)
+
+## Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas:
+![WhatsApp Image 2023-10-17 at 21 13 17](https://github.com/LogisticaFatec/API/assets/144967989/8f928f7d-83aa-4d4e-90c4-89e54b4deab2)
+
+## Uma tela de BI mostre a produtividade mensal dos veículos:
+![WhatsApp Image 2023-10-17 at 21 13 17](https://github.com/LogisticaFatec/API/assets/144967989/f19203ce-41fb-41b0-92b8-7f8f2733926e)
+
+  
 
 
 
@@ -78,7 +108,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Backlog do produto
 
 ## Sprint 1. 
-- [x] Kick-off apresentado pelo cliente;
+- [x] Análise do problema apresentado pelo cliente;
 - [x] Criação e Estruturação do GitHub;
 - [x] Criação e Estruturação do Jira;
 - [x] Desenvolvimento e alimentação Backlog;
@@ -86,16 +116,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Sprint 2. 
-- [ ] Análise de dados via Excel;
-- [ ] Criação de tabelas, via Power BI;
-- [ ] Desenvolver relatórios e dashboard no Power BI;
-- [ ] Criação de chaves no Bing Maps;
-- [ ] Análise via Bing Maps;
-- [ ] Cáculo da produtividade por veículo via Excel;
-- [ ] Cálculo da distância entre fábrica e clientes, via rotas;
-- [ ] Cálculo da produtividade mensal (input e output).
+- [x] Criação de relatórios de produtividade;
+- [x] Desenvolver relatórios e dashboard no Power BI;
+- [x] Criação de chaves no Bing Maps;
+- [x] Cálculo da produtividade mensal (input e output).
       
 ## Sprint 3. 
+- [ ] Aplicação de métodos de análise de produtividade;
 - [ ] Integração MySQL e Access;
 - [ ] Criação e modelagem no SQL - Prototipagem;
 - [ ] Automatização da análise da base de dados via Access;
@@ -111,12 +138,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Git Projects | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
@@ -125,11 +152,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 
 </details>
 
