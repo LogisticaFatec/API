@@ -52,7 +52,7 @@ https://github.com/LogisticaFatec/API/assets/142456968/7daf45b0-efad-4dee-a202-8
  Nos vídeos abaixo, estaremos apresentando toda a estrutura desenvolvida no Power Bi, tecnologia utilizada para auxiliar o cliente a visualizar e comprender os dados que antes eram armazenados no excel.
 
 
-https://github.com/LogisticaFatec/API/assets/144967989/f5c813dc-660f-46f5-a68e-1dc72fd9fb81
+[https://github.com/LogisticaFatec/API/assets/144967989/f5c813dc-660f-46f5-a68e-1dc72fd9fb81](https://github.com/LogisticaFatec/API/assets/142456968/94622376-9f7a-4b81-b404-50013e038dbf)
 
 https://github.com/LogisticaFatec/API/assets/144967989/45edc570-86f9-4b46-9312-9fd8753b4e5b
 
