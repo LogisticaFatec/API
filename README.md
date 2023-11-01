@@ -83,11 +83,13 @@ Com  os Dashboards utilizando a ferramenta PowerBI para auxiliar o cliente a vis
 ![image](https://github.com/LogisticaFatec/API/assets/142456968/c5878b76-401a-4fbd-a46c-69e6e8266d97)
 
 ## Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas:
-![image](https://github.com/LogisticaFatec/API/assets/142456968/c478d358-da7e-4a09-a90c-d365f0a0ba1a)
+![image](https://github.com/LogisticaFatec/API/assets/142456968/dcd82a24-f0eb-4edd-ae83-83656b406885)
+
 
 
 ## Uma tela de BI mostre o relatório de fretes das fábricas:
-![image](https://github.com/LogisticaFatec/API/assets/142456968/52765e1c-e5e5-4098-9bd2-151da1b6186f)
+![image](https://github.com/LogisticaFatec/API/assets/142456968/01004750-a99b-4461-ba8d-ee94091685f7)
+
 
 
   
