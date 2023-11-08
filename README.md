@@ -128,13 +128,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Cálculo da produtividade mensal (input e output).
       
 ## Sprint 3. 
-- [ ] Aplicação de métodos de análise de produtividade;
-- [ ] Integração MySQL e Access;
-- [ ] Criação e modelagem no SQL - Prototipagem;
-- [ ] Automatização da análise da base de dados via Access;
+- [x] Aplicação de métodos de análise de produtividade;
+- [x] Modelagem de problema de otimização via Python;
+- [x] Modelagem de banco de daods via Power Pivot;
+- [x] Criação e modelagem no SQL - Prototipagem;
       
 ## Sprint 4. 
-- [ ] Entrega de resultados para o cliente;
+- [ ]  Validar resultados da otimização Power BI/ Python, por meio do SQL;
+- [ ]  Entrega de resultados para o cliente;
 - [ ]  Criação e edição do vídeo para Feira de Soluções.
 
   
