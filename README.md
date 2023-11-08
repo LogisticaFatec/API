@@ -32,7 +32,7 @@ Sprint | Previsão | Status|
 # Equipe
 
 
-<![Time](https://github.com/LogisticaFatec/API/assets/144967989/784fa2e7-8bae-44d3-b9c1-51521e7f05cb)>
+![Time](https://github.com/LogisticaFatec/API/assets/144967989/784fa2e7-8bae-44d3-b9c1-51521e7f05cb)
 
 
 # Objetivo do Projeto
@@ -55,7 +55,7 @@ https://github.com/LogisticaFatec/API/assets/142456968/7daf45b0-efad-4dee-a202-8
 
 ### Sprint 3
 
-Utilizando da programação linear e programação em phyton dentro do Google Colab para elaborar de um modelo de otimização, com o objetivo de minimizar o custo de transporte de uma distribuidora.
+Utilizando da programação linear e programação em python dentro do Google Colab para elaborar de um modelo de otimização, com o objetivo de minimizar o custo de transporte de uma distribuidora.
 
 https://github.com/LogisticaFatec/API/assets/142456968/86a0364f-b869-486c-a892-6b2f728ff50b
 
