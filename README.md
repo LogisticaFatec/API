@@ -24,7 +24,7 @@ Sprint | Previsão | Status|
 |Kick Off | 06/09/2023 | concluido|
 |01 |27/09/2023 | concluido | 
 |02| 18/10/2023 | concluido |
-|03| 08/11/2023 | a fazer|
+|03| 08/11/2023 | concluido |
 |04| 29/11/2023 |a fazer |
 |Feira de Soluções|12/12/2023 |a fazer |
 
@@ -164,6 +164,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Lucas Gabriel Fernandes      |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lugafeo) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lugafeo)        |             |
 | Scrum Master  | Victória Crispim |    [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-crispim-santos) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Crispimv)        |
+| Team Member   | Allana Brigagao   |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allana-alves-83b5b4148/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/allanabrigagao)        |
 | Team Member   | Filipe Silva    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipeoliveiralogistica/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/IaeFilipe)        |
 |  Team Member  | João Gabriel Pereira               |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-526a3a196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joaopgabriel)        |
 |  Team Member  | Thainá Simões              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thain%C3%A1-pereira-sim%C3%B5es-6a7730189) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/PT0017)   |
