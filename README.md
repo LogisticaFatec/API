@@ -32,7 +32,7 @@ Sprint | Previsão | Status|
 # Equipe
 
 
-<img src="Equipe.jpg">
+<![Time](https://github.com/LogisticaFatec/API/assets/144967989/784fa2e7-8bae-44d3-b9c1-51521e7f05cb)>
 
 
 # Objetivo do Projeto
