@@ -51,7 +51,7 @@ https://github.com/LogisticaFatec/API/assets/142456968/7daf45b0-efad-4dee-a202-8
 ### Sprint 2
  No vídeo abaixo, estaremos apresentando toda a estrutura desenvolvida no Power Bi, tecnologia utilizada para auxiliar o cliente a visualizar e comprender os dados que antes eram armazenados no excel.
 
-[![Nome do Vídeo](https://img.youtube.com/vi/tgxKdst6mXM/sddefault.jpg)](https://www.youtube.com/watch?v=tgxKdst6mXM)
+[![Nome do Vídeo](https://img.youtube.com/vi/7ty2eCOxVRg/0.jpg)](https://www.youtube.com/watch?v=7ty2eCOxVRg)
 
 ### Sprint 3
 
