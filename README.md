@@ -53,7 +53,11 @@ https://github.com/LogisticaFatec/API/assets/142456968/7daf45b0-efad-4dee-a202-8
 
 [![Nome do Vídeo](https://img.youtube.com/vi/tgxKdst6mXM/sddefault.jpg)](https://www.youtube.com/watch?v=tgxKdst6mXM)
 
+### Sprint 3
 
+Utilizando da programação linear e programação em phyton dentro do Google Colab para elaborar de um modelo de otimização, com o objetivo de minimizar o custo de transporte de uma distribuidora.
+
+https://github.com/LogisticaFatec/API/assets/142456968/86a0364f-b869-486c-a892-6b2f728ff50b
 
 
 
@@ -65,13 +69,13 @@ https://github.com/LogisticaFatec/API/assets/142456968/7daf45b0-efad-4dee-a202-8
 
 # Produto
 
-* Sprint 1
+### Sprint 1
    
 Com o GitHub, temos os principais dados organizados, conseguindo assim, elencar prioridades e solucionar os problemas que surgirem com o decorrer do projeto, além de conseguir exibir os avanços e resultados gerados pela equipe de forma clara e explicativa.  Bem como o Jira Software, torna-se possivel organizar, atribuir e acompanhar as atividades necessárias para o alcance do produto final. De maneira que a comunicação seja direta ao responsável e de forma sistemática, analisar o desempenho e gargalos na equipe e nas atividades.
 ## Apresentação da estrutura do Jira Software da equipe
 ![ezgif com-video-to-gif (1)](https://github.com/LogisticaFatec/API/assets/142456968/06faef21-238e-44d0-abbc-f7844cc476f5)
 
-* Sprint 2
+### Sprint 2
 
 Com  os Dashboards utilizando a ferramenta PowerBI para auxiliar o cliente a visualizar todos os seus dados armazenados no Excel. Contribuindo para futuras entregas, sendo elas:
  
@@ -88,11 +92,11 @@ Com  os Dashboards utilizando a ferramenta PowerBI para auxiliar o cliente a vis
 
 
 
-  * Sprint 3
+### Sprint 3
 
-Utilizando da programação linear e programação em phyton dentro do Google Colab para elaborar de um modelo de otimização, com o objetivo de minimizar o custo de transporte de uma distribuidora.
 
-https://github.com/LogisticaFatec/API/assets/142456968/86a0364f-b869-486c-a892-6b2f728ff50b
+
+
 
 
 
