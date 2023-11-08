@@ -94,7 +94,7 @@ Com  os Dashboards utilizando a ferramenta PowerBI para auxiliar o cliente a vis
 
 ### Sprint 3
 
-Através do sistema Python, foi possível realizar uma otimação e minimizar o custo de transporte de uma distribuidora, identicando o valor ideal para ser administrado pela empresa. 
+Através do sistema Python, foi possível realizar uma otimização no transporte e uma minimização no custo de transporte de uma distribuidora, assim identificando o valor ideal para ser administrado pela empresa. 
 ![WhatsApp Image 2023-11-07 at 20 17 31](https://github.com/LogisticaFatec/API/assets/144967989/a7a952c2-f946-4db1-8279-5055ad86f206)
 
 
