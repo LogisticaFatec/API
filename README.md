@@ -92,8 +92,11 @@ Com  os Dashboards utilizando a ferramenta PowerBI para auxiliar o cliente a vis
 
 
 
-  
+  * Sprint 3
 
+Utilizando da programação linear e programação em phyton dentro do Google Colab para elaborar de um modelo de otimização, com o objetivo de minimizar o custo de transporte de uma distribuidora.
+
+https://github.com/LogisticaFatec/API/assets/142456968/86a0364f-b869-486c-a892-6b2f728ff50b
 
 
 
