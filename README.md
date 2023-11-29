@@ -25,7 +25,7 @@ Sprint | Previsão | Status|
 |01 |27/09/2023 | concluido | 
 |02| 18/10/2023 | concluido |
 |03| 08/11/2023 | concluido |
-|04| 29/11/2023 |a fazer |
+|04| 29/11/2023 | concluido |
 |Feira de Soluções|12/12/2023 |a fazer |
 
 
@@ -59,11 +59,20 @@ Utilizando da programação linear e programação em python dentro do Google Co
 
 https://github.com/LogisticaFatec/API/assets/142456968/86a0364f-b869-486c-a892-6b2f728ff50b
 
+### Sprint 4
+
+
+
+https://github.com/LogisticaFatec/API/assets/144967989/30370331-8188-4d18-83ff-c8ae9543d00b
+
 
 
 
 # Tecnologias Utilizadas
 <img src="Tecnologias.jpeg"/>
+
+
+
 
 
 
