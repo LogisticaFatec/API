@@ -107,6 +107,16 @@ Através do sistema Python, foi possível realizar uma otimização no transport
 
 ![WhatsApp Image 2023-11-07 at 20 17 31](https://github.com/LogisticaFatec/API/assets/144967989/a7a952c2-f946-4db1-8279-5055ad86f206)
 
+### Sprint 4
+Com intuito de aprimorar a visualização da empresa sobre seus dados, foi possivel criar atraves do Sistema MySQL  um banco de dados para armazenamento e manipulação de dados, definindo a relação de cada tabela.
+## Uma tela com 10 clientes que obtiveram o maior custo, por rota:
+![WhatsApp Image 2023-11-28 at 14 54 09](https://github.com/LogisticaFatec/API/assets/144967989/78ee564e-6b3b-49aa-bcef-67ca14b28143)
+
+## Uma tela com  10 clientes que obtiveram o menor custo por rota:
+![WhatsApp Image 2023-11-28 at 16 29 43](https://github.com/LogisticaFatec/API/assets/144967989/36d8052a-bf85-499b-8d80-438559486100)
+
+## Uma tela com o top 10 geral:
+![WhatsApp Image 2023-11-28 at 16 12 10](https://github.com/LogisticaFatec/API/assets/144967989/f0f91531-31d3-4d69-914a-2cd295bfa804)
 
 
 
@@ -143,9 +153,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Criação e modelagem no SQL - Prototipagem;
       
 ## Sprint 4. 
-- [ ]  Validar resultados da otimização Power BI/ Python, por meio do SQL;
-- [ ]  Entrega de resultados para o cliente;
-- [ ]  Criação e edição do vídeo para Feira de Soluções.
+- [x]  Validar resultados da otimização Power BI/ Python, por meio do SQL;
+- [x]  Entrega de resultados para o cliente;
 
   
 # Competências desenvolvidas
