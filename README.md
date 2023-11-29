@@ -69,7 +69,7 @@ https://github.com/LogisticaFatec/API/assets/144967989/30370331-8188-4d18-83ff-c
 
 
 # Tecnologias Utilizadas
-<img src="Tecnologias.jpeg"/>
+<img src="Tecnologias.PNG"/>
 
 
 
