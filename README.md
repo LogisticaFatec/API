@@ -26,7 +26,7 @@ Sprint | Previsão | Status|
 |02| 18/10/2023 | concluido |
 |03| 08/11/2023 | concluido |
 |04| 29/11/2023 | concluido |
-|Feira de Soluções|12/12/2023 |a fazer |
+|Feira de Soluções|12/12/2023 |concluído|
 
 
 # Equipe
